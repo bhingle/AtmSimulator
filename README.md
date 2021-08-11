@@ -1,5 +1,5 @@
 ## AtmSimulator
-This project was build using `Java SE 12` and `MySql Workbench`
+This project was build using `Java SE 12` and `MySql Workbench` 
 
 Screenshots:
 
